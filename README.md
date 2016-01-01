@@ -21,8 +21,11 @@ This application provides a simple GUI to administrate Spring Boot applications 
 * Mail and desktop notification on status change
 * Event journal of status changes (non persistent)
 
+## Build & Run
 ```
 ./gradlew bootRun
+
+And access the page at http://localhost:8080
 ```
 ## Screenshots
 
