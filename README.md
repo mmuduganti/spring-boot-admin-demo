@@ -24,8 +24,10 @@ This application provides a simple GUI to administrate Spring Boot applications 
 ## Build & Run
 ```
 ./gradlew bootRun
+```
 
-And access the page at http://localhost:8080
+```
+Access the application at http://localhost:8080
 ```
 ## Screenshots
 
